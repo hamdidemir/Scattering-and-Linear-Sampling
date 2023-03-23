@@ -13,4 +13,4 @@ Initial.m and Initial2.m files sets up the initial layout for the calculations t
 
 Run the files in the following order Initial.m > Cmn.m > Es.m > linear_sampling.m 
 
-Initial.m and Initial2.m have plots to show the placement of the antennas and dielectric cylinder and linear_sampling.m has a plot to show the result of imaging. 
+Initial.m and Initial1.m have plots to show the placement of the antennas and dielectric cylinder and linear_sampling.m has a plot to show the result of imaging. 
