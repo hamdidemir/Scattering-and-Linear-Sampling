@@ -11,4 +11,6 @@ Additional information about linear sampling method: https://onlinelibrary.wiley
 
 Initial.m and Initial2.m files sets up the initial layout for the calculations to carry out. Cmn.m and Es.m files calculates the data for scattering.
 
-Run the files in the following order Initial.m > Cmn.m > Es.m > linear_sampling.m
+Run the files in the following order Initial.m > Cmn.m > Es.m > linear_sampling.m 
+
+Initial.m and Initial2.m have plots to show the placement of the antennas and dielectric cylinder and linear_sampling.m has a plot to show the result of imaging. 
