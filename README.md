@@ -16,7 +16,9 @@ Run the files in the following order Initial.m > Cmn.m > Es.m > linear_sampling.
 Initial.m and Initial1.m have plots to show the placement of the antennas and dielectric cylinder and linear_sampling.m has a plot to show the result of imaging. 
 
 The initial position of dielectric and antennas
+
 ![initial_layout](https://user-images.githubusercontent.com/128630855/227712319-929ba056-c83f-48e7-ab20-39cf52a9aa44.jpg)
 
 The resulting image of linear sampling
+
 ![linear_sampling](https://user-images.githubusercontent.com/128630855/227712321-2a80502f-8790-42fd-8899-b844c66b63a7.jpg)
